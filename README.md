@@ -22,4 +22,4 @@ There are 7 steps that I divided
   Could not do this properties
 
 7)MONITORING AND LOG DASHBOARD
-  COuld not real time event so this properties also could not.
+  Could not real time event so this properties also could not.
