@@ -1,0 +1,11 @@
+Apr 28, 2019 11:09:02 PM com.github.ybsahan.logcreator.CreateLog main
+INFO: Sun Apr 28 23:09:02 EET 2019INFOİstanbulHello-From-İstanbul
+
+Apr 28, 2019 11:09:02 PM com.github.ybsahan.logcreator.CreateLog main
+INFO: Sun Apr 28 23:09:02 EET 2019FATALTOKYOHello-From-Tokyo
+
+Apr 28, 2019 11:09:02 PM com.github.ybsahan.logcreator.CreateLog main
+INFO: Sun Apr 28 23:09:02 EET 2019INFOİstanbulHello-From-İstanbul
+
+Apr 28, 2019 11:09:02 PM com.github.ybsahan.logcreator.CreateLog main
+INFO: Sun Apr 28 23:09:02 EET 2019ERRORİstanbulHello-From-İstanbul
