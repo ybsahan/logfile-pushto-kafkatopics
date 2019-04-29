@@ -10,11 +10,16 @@ There are 7 steps that I divided
   Created kafka producer
  
 3)SEND LOG FILES DATA TO KAFKA PRODUCER
+  In Kafka_Producer Code Read Logs line by line and append into Kafka city_topic
 
 4)CREATE KAFKA CONSUMER
+  In this step was created Kafka Consumer 
 
 5)INSERT DATA INTO ELASTICSEARCH
+  I tried to write from kafka consumer to elasticsearch by bonsai elasticsearch not local but could not work
 
 6)ON BROWSER REAL TIME EVENT
+  Could not do this properties
 
 7)MONITORING AND LOG DASHBOARD
+  COuld not real time event so this properties also could not.
